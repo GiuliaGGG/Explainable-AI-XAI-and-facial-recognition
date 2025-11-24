@@ -37,5 +37,4 @@ from tqdm import tqdm
     #cd facerec-bias-bfw/code
     #pip install .
 
-from facebias.image import read, write
-from facebias.image import resize 
+from facebias.image import read, write, resize 
